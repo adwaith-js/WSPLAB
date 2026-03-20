@@ -7,4 +7,4 @@ My TO-DO List
 6. Apply for IT jobs
 7. Commit ot increase your skill in it
 8.Search for short courses in IT.
-
+9.test pull
